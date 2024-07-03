@@ -6,7 +6,7 @@ subtitle: I'm M.S student at <a href='https://www.rcv.sejong.ac.kr/'>Robotics an
 profile:
   align: right
   image: gtlim.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Sejong University, AI Center 437</p>
     <p>Seoul, South Korea</p>
