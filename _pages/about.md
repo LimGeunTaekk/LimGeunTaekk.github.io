@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm M.S student at <a href='https://www.rcv.sejong.ac.kr/'>Robotics and Computer Vision Lab</a>. at <a href='http://www.sejong.ac.kr/'>Sejong University</a> supervision by <a href='https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en'>Yukyung Choi</a>
-
+subtitle: I'm M.S student at <a href='https://www.rcv.sejong.ac.kr/'>Robotics and Computer Vision Lab</a>. at <a href='http://www.sejong.ac.kr/'>Sejong University</a>.
 profile:
   align: right
   image: gtlim.jpg
