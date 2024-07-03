@@ -12,7 +12,6 @@ profile:
     <p>Seoul, South Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-education: true # includes a list of education items
 social: true # includes social icons at the bottom of the page
 ---
 
