@@ -16,4 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing my master's degree under the guidance of Professor [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en) at the [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/home). My research interests are centered around Computer Vision, with a particular focus on Video Understanding. Specifically, I am interested in Human Action Understanding, Scene Graph generation, and Open Vocabulary Learning.
+I am currently pursuing my master's degree under the guidance of Professor [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en) at the [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/home). My research interests are centered around Computer Vision, with a particular focus on Video Understanding. Specifically, I am interested in Human Action Understanding, Scene Graph Generation, and Open Vocabulary Learning.
+
+
