@@ -18,10 +18,10 @@ social: true # includes social icons at the bottom of the page
 
 I am currently pursuing my master's degree under the supervision of professor [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en) at the [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/home). My research focuses on Computer Vision, specifically Video Understanding. I am deeply interested in exploring the following three key areas for a comprehensive understanding of videos:
 
-1. Human Action Understanding: I view distinguishing dynamic human behaviors as a foundational task that necessitates temporal modeling.
+1. **Human Action Understanding**: I view distinguishing dynamic human behaviors as a foundational task that necessitates temporal modeling.
    
-2. Scene Graph Representation: I believe it offers essential frameworks for organizing and interpreting the intricate visual data present in videos.
+2. **Scene Graph Representation**: I believe it offers essential frameworks for organizing and interpreting the intricate visual data present in videos.
 
-3. Open-Vocabulary Learning: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications."
+3. **Open-Vocabulary Learning**: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications."
 
 
