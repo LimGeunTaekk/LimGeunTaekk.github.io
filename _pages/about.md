@@ -6,7 +6,7 @@ subtitle: I'm M.S student at <a href='https://www.rcv.sejong.ac.kr/'>Robotics an
 profile:
   align: right
   image: gtlim.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Sejong University, AI Center 437</p>
     <p>Seoul, South Korea</p>
@@ -16,12 +16,12 @@ education: true # includes a list of education items
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing my master's degree under the guidance of Professor [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en) at the [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/home). My research interests are centered around Computer Vision, with a particular focus on Video Understanding. For a deeper understanding of videos, I focus on the following three topics:
+I am currently pursuing my master's degree under the supervision of professor [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en) at the [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/home). My research focuses on Computer Vision, specifically Video Understanding. I am deeply interested in exploring the following three key areas for a comprehensive understanding of videos:
 
-1. Human Action Understanding: I consider distinguishing dynamic human behaviors as the most fundamental task that demands temporal modeling.
+1. Human Action Understanding: I view distinguishing dynamic human behaviors as a foundational task that necessitates temporal modeling.
+   
+2. Scene Graph Representation: I believe it offers essential frameworks for organizing and interpreting the intricate visual data present in videos.
 
-2. Scene Graph Representation: I believe it provides crucial representations for structuring and interpreting the complex visual information in videos.
-
-3. Open-Vocabulary Learning: I think it is essential for enabling robust inference on diverse scenarios unseen during training, crucial for practical applications.
+3. Open-Vocabulary Learning: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications."
 
 
