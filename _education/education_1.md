@@ -6,3 +6,4 @@ inline: true
 
 [Sejong University](http://www.sejong.ac.kr/), Seoul, South Korea \
 B.S. in Intelligence Mechatronics Engineering
+Advisor: Prof. Yukyung Choi
