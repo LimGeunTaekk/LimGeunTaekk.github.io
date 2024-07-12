@@ -23,14 +23,14 @@ I am currently pursuing my master's degree under the supervision of professor [Y
 
 3. **Open-Vocabulary Learning**: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications.
 
-# Education
+## Education
 * dd
     * dd
  * dd
     * dd 
 
-# Teaching Assistant (TA)
-* dd
+## Teaching Assistant (TA)
+* 
     * dd
 * dd
     * dd
