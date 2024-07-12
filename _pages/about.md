@@ -11,8 +11,10 @@ profile:
     <p>Sejong University, AI Center 437</p>
     <p>Seoul, South Korea</p>
 
+
 news : true
 selected_papers: true # includes a list of papers marked as "selected={true}"
+project : true
 social: true # includes social icons at the bottom of the page
 ---
 
