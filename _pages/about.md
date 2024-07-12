@@ -11,7 +11,6 @@ profile:
     <p>Sejong University, AI Center 437</p>
     <p>Seoul, South Korea</p>
 
-
 news : true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 project : true
@@ -25,16 +24,3 @@ I am currently pursuing my master's degree under the supervision of professor [Y
 2. **Scene Graph Representation**: I believe it offers essential frameworks for organizing and interpreting the intricate visual data present in videos.
 
 3. **Open-Vocabulary Learning**: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications.
-
-## Education
-* dd
-    * dd
- * dd
-    * dd 
-
-## Teaching Assistant (TA)
-* 
-    * dd
-* dd
-    * dd
-
