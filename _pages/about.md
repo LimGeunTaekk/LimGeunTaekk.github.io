@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm M.S student at <a href='https://www.rcv.sejong.ac.kr/'>Robotics and Computer Vision Lab</a>. at <a href='http://www.sejong.ac.kr/'>Sejong University</a>.
+subtitle: I'm M.S student at <a href='https://www.rcv.sejong.ac.kr/'>Robotics and Computer Vision Lab</a>. at Sejong University</a>.
 profile:
   align: right
   image: gtlim.jpg
