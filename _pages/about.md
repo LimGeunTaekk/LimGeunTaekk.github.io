@@ -21,6 +21,6 @@ I am currently pursuing my master's degree under the supervision of professor [Y
    
 2. **Scene Graph Representation**: I believe it offers essential frameworks for organizing and interpreting the intricate visual data present in videos.
 
-3. **Open-Vocabulary Learning**: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications."
+3. **Open-Vocabulary Learning**: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications.
 
 
