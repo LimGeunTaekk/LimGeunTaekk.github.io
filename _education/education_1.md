@@ -1,9 +1,7 @@
 ---
 layout: post
-start_end: "Mar, 2017 - Feb, 2023"
+date: 2023-12-09
 inline: true
+related_posts: false
 ---
-
-Sejong University, Seoul, South Korea \
-B.S. in Intelligence Mechatronics Engineering (GPA : 4.15/4.5) \
-Advisor: Prof. Yukyung Choi
+📃 A paper on content-based video retrieval got accepted to AAAI 2024.
