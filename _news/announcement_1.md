@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023. Mar ~ Current
+date: 2023. Feb
 inline: true
 related_posts: false
 ---
-Sejong University, Seoul, South Korea
+A paper on content-based video retrieval got accepted to AAAI 2024.
