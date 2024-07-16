@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2023-12-09
+date: 2023-03-02
 inline: true
 related_posts: false
 ---
-📃 A paper on content-based video retrieval got accepted to AAAI 2024.
+M.S. Dept. of Intelligent Mechatronics Engineering in Sejong University. 
+
+
