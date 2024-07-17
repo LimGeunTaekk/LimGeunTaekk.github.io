@@ -60,53 +60,70 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++",
+        "MATLAB",
+        "Python",
+        "Scikit-learn",
+        "Pytorch"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Vision",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Video Understanding",
+        "Human Action Understanding",
+        "Visual Representation Learning",
+        "Open Vocabulary Learning"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "Development of an AI Based Video Search System for Untact Content Production",
+      "summary": "FUNDED BY INSTITUTE FOR INFORMATION & COMMUNICATION TECHNOLOGY PLANNING & EVALUATION (IITP)",
+      "highlights": ["Video descriptor", "Self supervised learning"],
+      "startDate": "2023-04-01",
+      "endDate": "2024-07-01",
       "url": "https://example.com"
-    }
+    },
+    {
+      "name": "Development of MPEG CDVA-based Multi-Machine Vision Task Software",
+      "summary": "FUNDED BY ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE (ETRI)",
+      "highlights": ["Untrimmed video representation learning", "Self supervised learning"],
+      "startDate": "2023-04-01",
+      "endDate": "2023-11-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Development of MPEG CDVA-based Video Search Software",
+      "summary": "FUNDED BY ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE (ETRI)",
+      "highlights": ["Temporal action localization", "Weakly supervised learning"],
+      "startDate": "2022-04-01",
+      "endDate": "2022-11-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Next generation AI for multi-purpose video search",
+      "summary": "FUNDED BY INSTITUTE FOR INFORMATION & COMMUNICATION TECHNOLOGY PLANNING & EVALUATION (IITP)",
+      "highlights": ["Video search system", "Multi-purpose search system"],
+      "startDate": "2021-04-01",
+      "endDate": "2023-03-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "A Study on a Deep Learning Model for Extracting Visual Features by Machine Vision Task",
+      "summary": "FUNDED BY ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE (ETRI)",
+      "highlights": ["Content-based video retrieval", "MPEG CDVA"],
+      "startDate": "2021-04-01",
+      "endDate": "2021-11-01",
+      "url": "https://example.com"
+    },
   ]
 }
