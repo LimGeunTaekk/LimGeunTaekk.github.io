@@ -1,8 +1,9 @@
 github_users:
   - LimGeunTaekk
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
+  - sejong-rcv/PVLR
   - sejong-rcv/VVS
   - sejong-rcv/TNIP
