@@ -5,7 +5,7 @@ permalink: /
 subtitle: I'm M.S student at <a href='https://www.rcv.sejong.ac.kr/'>Robotics and Computer Vision Lab</a>. at Sejong University</a>.
 profile:
   align: right
-  image: gtlim.jpg
+  image: gtlim2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Sejong University, AI Center 437</p>
