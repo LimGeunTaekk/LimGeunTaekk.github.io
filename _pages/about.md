@@ -8,7 +8,6 @@ profile:
   image: gtlim2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Sejong University, AI Center 437</p>
     <p>Seoul, South Korea</p>
 
 news : true
