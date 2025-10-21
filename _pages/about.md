@@ -16,8 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Currently, I am working as a research intern under the guidance of Professor [Jonghyun Choi](https://scholar.google.com/citations?user=uiGWnm4AAAAJ&hl=en) at the [Machine Perception and Reasoning Lab](https://snumprlab.github.io/), Seoul National University.
-
 My research focuses on multimodal AI, with a particular emphasis on video-centric AI modeling. My research focuses on empowering AI systems to aid humans in interpreting complex video content, thereby facilitating higher-level reasoning across various applications such as sports analytics, surveillance and media-content. I am deeply interested in exploring the following three key areas for a comprehensive understanding of videos:
 
 1. **Efficient Video Representation**: The high computational demands of video data necessitate the use of efficient techniques like keyframe selection and tokenization.
