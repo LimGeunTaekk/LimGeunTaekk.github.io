@@ -5,7 +5,7 @@ permalink: /
 subtitle: I’m a Ph.D. student at the University of Sejong, advised by Prof. <a href='https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en/'>Yukyung Choi</a>, working on LMMs/Agents for Video Understanding.
 profile:
   align: right
-  image: gtlim2.jpg
+  image: gtlim.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Seoul, South Korea</p>
