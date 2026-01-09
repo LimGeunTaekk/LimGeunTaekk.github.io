@@ -16,5 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research focuses on multimodal AI, with a particular emphasis on video-centric AI modeling. My research focuses on empowering AI systems to aid humans in interpreting complex video content, thereby facilitating higher-level reasoning across various applications such as sports analytics, surveillance and media-content.
+My research centers on multimodal AI with a particular emphasis on video-centric modeling. My goal is to empower AI systems to assist humans in interpreting complex video content, facilitating high-level reasoning across applications such as sports analytics, surveillance, and media content analysis. I am deeply interested in exploring three key areas for a comprehensive understanding of videos:
+
+1. **Efficient Video Representation**: Addressing the high computational demands of video data by developing efficient learning approaches..
+   
+2. **Perception and Reasoning in Videos**: Tackling the challenge of understanding temporal dynamics, including frame continuity, causality, and long-term dependencies.
+
+3. **Multi-modal Learning**: Leveraging audio encoded in video streams to extract semantic information that complements, yet remains distinct from, visual semantics.
 
