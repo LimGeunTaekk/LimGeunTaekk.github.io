@@ -154,3 +154,33 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+@media (max-width: 600px) {
+  .profile-row,
+  .profile-row > td,
+  .experience-row,
+  .experience-row > td,
+  .publication-row,
+  .publication-row > td {
+    display: block;
+    width: auto !important;
+    max-width: none !important;
+  }
+
+  .profile-row > td:last-child {
+    width: 55% !important;
+    max-width: 220px !important;
+    margin: 0 auto;
+  }
+
+  .experience-row > td:first-child,
+  .publication-row > td:first-child {
+    max-width: 240px !important;
+    margin: 0 auto;
+  }
+
+  .experience-row > td:last-child,
+  .publication-row > td:last-child {
+    padding: 8px 16px !important;
+  }
+}
