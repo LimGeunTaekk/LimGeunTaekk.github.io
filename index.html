@@ -53,6 +53,10 @@
               <td style="padding:16px;width:100%;vertical-align:middle;">
                 <ul style="list-style-type:none; margin:0; padding:0;">
                   <li style="margin-bottom:1.2em;">
+                    <span style="font-weight:bold; margin-right:10px;">Aug 21, 2026</span>
+                    A paper about embedding of video-llms has been accepted to <a href="https://2026.emnlp.org/">EMNLP 2026</a>, Budapest
+                  </li>
+                  <li style="margin-bottom:1.2em;">
                     <span style="font-weight:bold; margin-right:10px;">June 18, 2026</span>
                     A paper about evaluation of video-llms has been accepted to <a href="https://eccv.ecva.net/">ECCV 2026.</a>, Malmö 
                   </li>
@@ -62,22 +66,22 @@
                   </li>
                   <li style="margin-bottom:1.2em;">
                     <span style="font-weight:bold; margin-right:10px;">Mar 20, 2025</span>
-                    I started a research internship at <a href="https://snumprlab.github.io/">SNU MRR Lab.</a>'s Video Team.
+                    I started a research internship at <a href="https://snumprlab.github.io/">SNU MPR Lab.</a>'s Video Team.
                   </li>
                   <li style="margin-bottom:1.2em;">
                     <span style="font-weight:bold; margin-right:10px;">Dec 16, 2024</span>
                     I successfully completed my Master Degree defense. 🎓
                   </li>
-                  <li style="margin-bottom:1.2em;">
+                  <li class="extra-news-item" style="margin-bottom:1.2em;" hidden>
                     <span style="font-weight:bold; margin-right:10px;">Jul 16, 2024</span>
                     A paper about weakly supervised temporal action localization has been accepted to <a href="https://2024.acmmm.org//">ACM MM 2024.</a>, Melbourne 
                   </li>
-                  <li style="margin-bottom:1.2em;">
+                  <li class="extra-news-item" style="margin-bottom:1.2em;" hidden>
                     <span style="font-weight:bold; margin-right:10px;">Mar 24, 2024</span>
                     A paper about content-based video retrieval has been accepted to <a href="https://aaai.org/conference/aaai/aaai-24/">AAAI 2024.</a>, Vancouver
                   </li>
                 </ul>
-                <a id="toggle-news-btn" onclick="toggleExtraNews()" style="cursor:pointer;">Show All</a>
+                <button id="toggle-news-btn" class="news-toggle" type="button" aria-expanded="false" onclick="toggleExtraNews()">Show All</button>
               </td>
             </tr>
           </tbody></table>
@@ -157,6 +161,26 @@
                 <a href="">paper</a>
                 &nbsp;/&nbsp;
                 <a href="https://github.com/sejong-rcv/HypSGG">code</a>
+                <p></p>
+              </td>
+            </tr>
+
+            <tr>
+              <td style="padding:16px;width:30%;vertical-align:middle">
+                <span class="thumb" style="width:200px;">
+                  <img src="images/fig_MARS.png" alt="MARS thumbnail" style="width:100%; max-width:100%; object-fit:contain;">
+                </span>
+              </td>
+              <td style="padding:8px;width:70%;vertical-align:middle">
+                <span class="papertitle">MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?</span>
+                <br>
+                Uicheol Jung,
+                Juyoung Hong,
+                <strong><u>Geuntaek Lim</u></strong>,
+                Yukyung Choi
+                <br>
+                <p style="margin:8px 0 0 0"></p>
+                <em>Empirical Methods in Natural Language Processing (EMNLP), Main Conference</em>, 2026
                 <p></p>
               </td>
             </tr>
@@ -352,18 +376,17 @@
         </td>
       </tr>
     </table>
-  <script>
-    function toggleExtraNews() {
-      var item = document.getElementById('extra-news-item');
-      var btn = document.getElementById('toggle-news-btn');
-      if (item.style.display === 'none') {
-        item.style.display = '';
-        btn.textContent = 'Hide All';
-      } else {
-        item.style.display = 'none';
-        btn.textContent = 'Show All';
-      }
-    }
-  </script>
+	  <script>
+	    function toggleExtraNews() {
+	      var items = document.querySelectorAll('.extra-news-item');
+	      var btn = document.getElementById('toggle-news-btn');
+	      var shouldShow = btn.getAttribute('aria-expanded') === 'false';
+	      items.forEach(function(item) {
+	        item.hidden = !shouldShow;
+	      });
+	      btn.setAttribute('aria-expanded', String(shouldShow));
+	      btn.textContent = shouldShow ? 'Show Less' : 'Show All';
+	    }
+	  </script>
   </body>
 </html>

@@ -74,6 +74,20 @@ a:hover {
   text-decoration: none;
 }
 
+.news-toggle {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #1772d0;
+  font: inherit;
+  cursor: pointer;
+}
+
+.news-toggle:focus,
+.news-toggle:hover {
+  color: #f09228;
+}
+
 body,
 td,
 th,
